@@ -1,5 +1,11 @@
-# <p align=center> This repository complements [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956).
+<div align="center">
+<h1> A Survey on Visual Mamba </h1>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2404.15956-b31b1b.svg)](https://arxiv.org/abs/2404.15956)
+
+</div>
+
+> This repo provides an implementation of the training and inference pipeline for [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956). 
 
 
 Authors: [Hanwei Zhang](https://hanwei0912.github.io/), Ying Zhu, Dan Wang, [Lijun Zhang](https://scholar.google.com/citations?user=swBYV0YAAAAJ&hl=en&oi=sra), [Tianxiang Chen](https://scholar.google.com/citations?user=xU3Ysg0AAAAJ&hl=en&oi=sra), [Ziyang Wang](https://github.com/ziyangwang007) and [Zi Ye](https://scholar.google.com/citations?user=1V0CqfYAAAAJ&hl=zh-CN). 
@@ -9,12 +15,26 @@ Authors: [Hanwei Zhang](https://hanwei0912.github.io/), Ying Zhu, Dan Wang, [Lij
 
 <hr />
 
-# <p align=center>`Awesome Visual Mamba`</p>
-
 A curated list of awesome Mamba for Computer Vision (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
 
 We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information!
 
+
+
+# Citation
+
+If you find the listing and survey useful for your work, please cite the paper:
+
+- Zhang, Hanwei, et al. "A Survey on Visual Mamba." arXiv preprint arXiv:2404.15956 (2024).
+
+```bibtex
+@article{zhang2024survey,
+  title={A Survey on Visual Mamba},
+  author={Zhang, Hanwei and Zhu, Ying and Wang, Dan and Zhang, Lijun and Chen, Tianxiang and Wang, Ziyang and Ye, Zi},
+  journal={arXiv preprint arXiv:2404.15956},
+  year={2024}
+}
+```
 
 
 ## Overview
@@ -131,8 +151,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
  [[PDF](https://arxiv.org/abs/2403.06977)] 
 
 
-
-
 # Multi-Modal Understanding
 
 **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference.** [21th Mar., 2024].<br>
@@ -168,17 +186,4 @@ We strongly encourage the researchers that want to promote their fantastic work 
 # Others
 
 
-
-# Citation
-
-If you find the listing and survey useful for your work, please cite the paper:
-
-```
-@article{zhang2024survey,
-  title={A Survey on Visual Mamba},
-  author={Zhang, Hanwei and Zhu, Ying and Wang, Dan and Zhang, Lijun and Chen, Tianxiang and Wang, Ziyang and Ye, Zi},
-  journal={arXiv preprint arXiv:2404.15956},
-  year={2024}
-}
-```
 
