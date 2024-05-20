@@ -2,6 +2,10 @@
 <h1> A Survey on Visual Mamba </h1>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.15956-b31b1b.svg)](https://arxiv.org/abs/2404.15956)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 </div>
 
