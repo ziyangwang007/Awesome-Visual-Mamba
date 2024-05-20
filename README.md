@@ -70,6 +70,21 @@ We strongly encourage the researchers that want to promote their fantastic work 
 *Liu, Yue, Yunjie Tian, Yuzhong Zhao, Hongtian Yu, Lingxi Xie, Yaowei Wang, Qixiang Ye, and Yunfan Liu.*<br>
  [[PDF](https://arxiv.org/abs/2401.10166)] 
 
+**Plainmamba: Improving non-hierarchical mamba in visual recognition.** [26th Mar., 2024].<br>
+*Chenhongyi Yang, Zehui Chen, Miguel Espinosa, Linus Ericsson, Zhenyu Wang, Jiaming Liu, Elliot J. Crowley.*<br>
+ [[PDF](https://arxiv.org/abs/2403.17695)] 
+
+**Localmamba: Visual state space model with windowed selective scan.** [14th Mar., 2024].<br>
+*Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2403.09338)] 
+
+**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data.** [8th Feb., 2024].<br>
+*Shufan Li, Harkanwar Singh, Aditya Grover.*<br>
+ [[PDF](https://arxiv.org/abs/2402.05892)] 
+
+**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series.** [22th Mar., 2024].<br>
+*Badri N. Patro, Vijay S. Agneeswaran.*<br>
+ [[PDF](https://arxiv.org/abs/2403.15360)] 
 
 # Image Classification 
 
@@ -83,7 +98,24 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Object Detection
 
+**State Space Models for Event Cameras.** [23th Feb., 2024].<br>
+*Nikola Zubić, Mathias Gehrig, Davide Scaramuzza.*<br>
+ [[PDF](https://arxiv.org/abs/2402.15584)] 
+
+
 # Segmentation
+
+**ReMamber: Referring Image Segmentation with Mamba Twister.** [26th Mar., 2024].<br>
+*Yuhuan Yang, Chaofan Ma, Jiangchao Yao, Zhun Zhong, Ya Zhang, Yanfeng Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.17839)] 
+
+**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation.** [7th Feb., 2024].<br>
+*Ziyang Wang, Jian-Qing Zheng, Yichi Zhang, Ge Cui, Lei Li.*<br>
+ [[PDF](https://arxiv.org/abs/2402.05079)] 
+
+**Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation.** [5th Apr., 2024].<br>
+*Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie.*<br>
+ [[PDF](https://arxiv.org/abs/2404.04256)] 
 
 # Video Classification
 
