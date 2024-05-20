@@ -20,6 +20,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 ## Overview
 - [Survey Papers](#Survey-Papers)
 - [Mamba Backbone](#Mamba-Backbone)
+- [Image Classification](#Image-Classification)
 - [Object Detection](#Object-Detection)
 - [Segmentation](#Segmentation)
 - [Video Classification](#Video-Classification)
@@ -61,6 +62,24 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Mamba Backbone
 
+**Vision mamba: Efficient visual representation learning with bidirectional state space mode.** [17th Jan., 2024].<br>
+*Zhu, Lianghui, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, and Xinggang Wang.*<br>
+ [[PDF](https://arxiv.org/pdf/2401.09417)] 
+
+**Vmamba: Visual state space model.** [18th Jan., 2024].<br>
+*Liu, Yue, Yunjie Tian, Yuzhong Zhao, Hongtian Yu, Lingxi Xie, Yaowei Wang, Qixiang Ye, and Yunfan Liu.*<br>
+ [[PDF](https://arxiv.org/abs/2401.10166)] 
+
+
+# Image Classification 
+
+**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning.** [24th Feb., 2024].<br>
+*Chen, Chi-Sheng, Guan-Ying Chen, Dong Zhou, Di Jiang, and Dai-Shi Chen.*<br>
+ [[PDF](https://arxiv.org/abs/2402.15761)] 
+
+**Medmamba: Vision mamba for medical image classification.** [6th Mar., 2024].<br>
+*Yue, Yubiao, and Zhenzhang Li.*<br>
+ [[PDF](https://arxiv.org/abs/2403.03849)] 
 
 # Object Detection
 
@@ -73,7 +92,6 @@ We strongly encourage the researchers that want to promote their fantastic work 
 # Multi-Modal Understanding
 
 # Image Super-Resolution
-
 
 # Image Restoration
 
