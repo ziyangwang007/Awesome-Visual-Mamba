@@ -169,6 +169,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 # Image Super-Resolution
 
+**Activating Wider Areas in Image Super-Resolution.** [13th Mar., 2024].<br>
+*Cheng Cheng, Hang Wang, Hongbin Sun.*<br>
+ [[PDF](https://arxiv.org/abs/2403.08330)] 
+
 # Image Restoration
 
 **MambaIR: A Simple Baseline for Image Restoration with State-Space Model.** [23th Feb., 2024].<br>
