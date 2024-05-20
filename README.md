@@ -43,6 +43,14 @@ We strongly encourage the researchers that want to promote their fantastic work 
 *Liu, Xiao, Chenxu Zhang, and Lei Zhang.*<br>
  [[PDF](https://arxiv.org/pdf/2405.04404)] 
 
+**Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study.** [14th May., 2024].<br>
+*Zhu, Qinfeng, Yuan Fang, Yuanzhi Cai, Cheng Chen, and Lei Fan.*<br>
+ [[PDF](https://arxiv.org/pdf/2405.08493)] 
+
+**A survey on vision mamba: Models, applications and challenges.** [29th April., 2024].<br>
+*Xu, Rui, Shu Yang, Yihui Wang, Bo Du, and Hao Chen.*<br>
+ [[PDF](https://arxiv.org/pdf/2404.18861)] 
+
 # Mamba Backbone
 
 
