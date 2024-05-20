@@ -5,7 +5,6 @@
 
 </div>
 
-> This repo provides an implementation of the training and inference pipeline for [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956). 
 
 
 Authors: [Hanwei Zhang](https://hanwei0912.github.io/), Ying Zhu, Dan Wang, [Lijun Zhang](https://scholar.google.com/citations?user=swBYV0YAAAAJ&hl=en&oi=sra), [Tianxiang Chen](https://scholar.google.com/citations?user=xU3Ysg0AAAAJ&hl=en&oi=sra), [Ziyang Wang](https://github.com/ziyangwang007) and [Zi Ye](https://scholar.google.com/citations?user=1V0CqfYAAAAJ&hl=zh-CN). 
@@ -20,8 +19,7 @@ A curated list of awesome Mamba for Computer Vision (**in chronological order**)
 We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information!
 
 
-
-# Citation
+## Citation
 
 If you find the listing and survey useful for your work, please cite the paper:
 
