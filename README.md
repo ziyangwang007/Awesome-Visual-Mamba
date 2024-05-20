@@ -26,6 +26,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 - [Video Classification](#Video-Classification)
 - [Video Understanding](#Video-Understanding)
 - [Multi-Modal Understanding](#Multi-Modal-Understanding)
+- [Video Prediction](#Video-Prediction)
 - [Image Super-Resolution](#Image-Super-Resolution)
 - [Image Restoration](#Image-Restoration)
 - [Image Dehazing](#Image-Dehazing)
@@ -119,9 +120,32 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 # Video Classification
 
+**Long Movie Clip Classification with State-Space Video Models.** [14th Nov., 2022].<br>
+*Islam, Md Mohaiminul, and Gedas Bertasius.*<br>
+ [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_6)] 
+
 # Video Understanding
 
+**VideoMamba: State Space Model for Efficient Video Understanding.** [11th Mar., 2024].<br>
+*Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.*<br>
+ [[PDF](https://arxiv.org/abs/2403.06977)] 
+
+
+
+
 # Multi-Modal Understanding
+
+**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference.** [21th Mar., 2024].<br>
+*Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.14520)] 
+
+
+# Video Prediction
+
+**VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting.** [25th Mar., 2024].<br>
+*Yujin Tang, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.16536)] 
+
 
 # Image Super-Resolution
 
