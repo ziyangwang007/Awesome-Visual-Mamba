@@ -39,7 +39,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 # Survey Papers
-
+**Vision Mamba: A Comprehensive Survey and Taxonomy** [7th May., 2024].<br>
+*Liu, Xiao, Chenxu Zhang, and Lei Zhang.*<br>
+ [[PDF](https://arxiv.org/pdf/2405.04404)] 
 
 # Mamba Backbone
 
