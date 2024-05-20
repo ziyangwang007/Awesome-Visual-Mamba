@@ -39,6 +39,14 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 
 # Survey Papers
+**A Survey on Visual Mamba.** [24th April., 2024].<br>
+*Zhang, Hanwei, Ying Zhu, Dan Wang, Lijun Zhang, Tianxiang Chen, Ziyang Wang, and Zi Ye.*<br>
+ [[PDF](https://arxiv.org/abs/2404.15956)] 
+ 
+**A survey on vision mamba: Models, applications and challenges.** [29th April., 2024].<br>
+*Xu, Rui, Shu Yang, Yihui Wang, Bo Du, and Hao Chen.*<br>
+ [[PDF](https://arxiv.org/pdf/2404.18861)] 
+
 **Vision Mamba: A Comprehensive Survey and Taxonomy** [7th May., 2024].<br>
 *Liu, Xiao, Chenxu Zhang, and Lei Zhang.*<br>
  [[PDF](https://arxiv.org/pdf/2405.04404)] 
@@ -47,9 +55,9 @@ We strongly encourage the researchers that want to promote their fantastic work 
 *Zhu, Qinfeng, Yuan Fang, Yuanzhi Cai, Cheng Chen, and Lei Fan.*<br>
  [[PDF](https://arxiv.org/pdf/2405.08493)] 
 
-**A survey on vision mamba: Models, applications and challenges.** [29th April., 2024].<br>
-*Xu, Rui, Shu Yang, Yihui Wang, Bo Du, and Hao Chen.*<br>
- [[PDF](https://arxiv.org/pdf/2404.18861)] 
+**Mamba-360: Survey of state space models as transformer alternative for long sequence modelling: Methods, applications, and challenges.** [24th April., 2024].<br>
+*Patro, Badri Narayana, and Vijay Srinivas Agneeswaran.*<br>
+ [[PDF](https://arxiv.org/abs/2404.16112)] 
 
 # Mamba Backbone
 
