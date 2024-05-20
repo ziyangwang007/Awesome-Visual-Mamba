@@ -171,6 +171,14 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 # Image Restoration
 
+**MambaIR: A Simple Baseline for Image Restoration with State-Space Model.** [23th Feb., 2024].<br>
+*Hang Guo, Jinmin Li, Tao Dai, Zhihao Ouyang, Xudong Ren, Shu-Tao Xia.*<br>
+ [[PDF](https://arxiv.org/abs/2402.15648)] 
+
+**Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models.** [26th Mar., 2024].<br>
+*Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi.*<br>
+ [[PDF](https://arxiv.org/abs/2403.17902)] 
+
 # Image Dehazing
 
 # Image Derain
