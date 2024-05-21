@@ -130,7 +130,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection.** [3rd Apr., 2024].<br>
 *Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu.*<br>
- [[PDF](https://arxiv.org/abs/2403.02148)] 
+ [[PDF](https://arxiv.org/abs/2403.02148)] [[GitHub](https://github.com/txchen-USTC/MiM-ISTD)] 
 
 
 # Image Segmentation
@@ -146,6 +146,12 @@ If you find the listing and survey useful for your work, please cite the paper:
 **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation.** [5th Apr., 2024].<br>
 *Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie.*<br>
  [[PDF](https://arxiv.org/abs/2404.04256)] 
+
+**Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model.** [11th Apr., 2024].<br>
+*Qinfeng Zhu, Yuanzhi Cai, Yuan Fang, Yihan Yang, Cheng Chen, Lei Fan, Anh Nguyen.*<br>
+ [[PDF](https://arxiv.org/abs/2404.01705)] [[GitHub](https://github.com/zhuqinfeng1999/Samba)] 
+
+
 
 # Video Classification
 
