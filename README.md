@@ -15,6 +15,8 @@ Authors: [Hanwei Zhang](https://hanwei0912.github.io/), Ying Zhu, Dan Wang, [Lij
 </p>
 
 
+<img src="num.png" width="50%" height="auto">
+
 
 <hr />
 
