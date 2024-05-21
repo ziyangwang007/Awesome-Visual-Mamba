@@ -44,11 +44,12 @@ If you find the listing and survey useful for your work, please cite the paper:
 - [Mamba Backbone](#Mamba-Backbone)
 - [Image Classification](#Image-Classification)
 - [Object Detection](#Object-Detection)
-- [Segmentation](#Segmentation)
+- [Image Segmentation](#Image-Segmentation)
 - [Video Classification](#Video-Classification)
 - [Video Understanding](#Video-Understanding)
 - [Multi-Modal Understanding](#Multi-Modal-Understanding)
 - [Video Prediction](#Video-Prediction)
+- [Image Registration](#Image-Registration)
 - [Image Super-Resolution](#Image-Super-Resolution)
 - [Image Restoration](#Image-Restoration)
 - [Image Dehazing](#Image-Dehazing)
@@ -126,7 +127,7 @@ If you find the listing and survey useful for your work, please cite the paper:
  [[PDF](https://arxiv.org/abs/2402.15584)] 
 
 
-# Segmentation
+# Image Segmentation
 
 **ReMamber: Referring Image Segmentation with Mamba Twister.** [26th Mar., 2024].<br>
 *Yuhuan Yang, Chaofan Ma, Jiangchao Yao, Zhun Zhong, Ya Zhang, Yanfeng Wang.*<br>
@@ -151,6 +152,8 @@ If you find the listing and survey useful for your work, please cite the paper:
 **VideoMamba: State Space Model for Efficient Video Understanding.** [11th Mar., 2024].<br>
 *Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.*<br>
  [[PDF](https://arxiv.org/abs/2403.06977)] 
+
+# Image Registration
 
 
 # Multi-Modal Understanding
@@ -185,13 +188,59 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 # Image Dehazing
 
+**U-shaped Vision Mamba for Single Image Dehazing.** [6th Feb., 2024].<br>
+*Zhuoran Zheng, Chen Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2402.04139)] 
+
 # Image Derain
+
+**FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining.** [15th Apr., 2024].<br>
+*Zou Zhen, Yu Hu, Zhao Feng.*<br>
+ [[PDF](https://arxiv.org/abs/2403.20106)] 
 
 # Image Deblurring
 
+**Learning Enriched Features via Selective State Spaces Model for Efficient Image Deblurring.** [29th Mar., 2024].<br>
+*Hu Gao, Depeng Dang.*<br>
+ [[PDF](https://arxiv.org/abs/2402.09476)] 
+
 # Visual generation
 
+**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models.** [14th Mar., 2024].<br>
+*Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li.*<br>
+ [[PDF](https://arxiv.org/abs/2403.09471)] 
+
+**Scalable Diffusion Models with State Space Backbone.** [8th Feb., 2024].<br>
+*Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang.*<br>
+ [[PDF](https://arxiv.org/abs/2402.05608)] 
+
+
+**ZigMa: A DiT-style Zigzag Mamba Diffusion Model.** [20th Mar., 2024].<br>
+*Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Björn Ommer.*<br>
+ [[PDF](https://arxiv.org/abs/2403.13802)] 
+
+**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM.** [12th Mar., 2024].<br>
+*Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.07487)] 
+
 # Point cloud
+
+**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy.** [11th Mar., 2024].<br>
+*Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.06467)] 
+
+**3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion.** [10th Apr., 2024].<br>
+*Yixuan Li, Weidong Yang, Ben Fei.*<br>
+ [[PDF](https://arxiv.org/abs/2404.07106)] 
+
+**3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering.** [8th Apr., 2024].<br>
+*Qingyuan Zhou, Weidong Yang, Ben Fei, Jingyi Xu, Rui Zhang, Keyi Liu, Yeqi Luo, Ying He.*<br>
+ [[PDF](https://arxiv.org/abs/2404.05522)] 
+
+**Point Cloud Mamba: Point Cloud Learning via State Space Model.** [1th Mar., 2024].<br>
+*Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan.*<br>
+ [[PDF](https://arxiv.org/abs/2403.00762)] 
+
 
 # 3D Reconstruction
 
