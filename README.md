@@ -128,6 +128,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Nikola Zubić, Mathias Gehrig, Davide Scaramuzza.*<br>
  [[PDF](https://arxiv.org/abs/2402.15584)] 
 
+**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection.** [3rd Apr., 2024].<br>
+*Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu.*<br>
+ [[PDF](https://arxiv.org/abs/2403.02148)] 
+
 
 # Image Segmentation
 
@@ -155,7 +159,25 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.*<br>
  [[PDF](https://arxiv.org/abs/2403.06977)] 
 
+**SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding.** [1st Apr., 2024].<br>
+*Wenrui Li, Xiaopeng Hong, Xiaopeng Fan.*<br>
+ [[PDF](https://arxiv.org/abs/2404.01174)] 
+
+**Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding.** [14th Mar., 2024].<br>
+*Guo Chen, Yifei Huang, Jilan Xu, Baoqi Pei, Zhe Chen, Zhiqi Li, Jiahao Wang, Kunchang Li, Tong Lu, Limin Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.09626)] 
+
+
 # Image Registration
+
+**MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration.** [25th Jan., 2024].<br>
+*Tao Guo, Yinuo Wang, Shihao Shu, Diansheng Chen, Zhouping Tang, Cai Meng, Xiangzhi Bai.*<br>
+ [[PDF](https://arxiv.org/abs/2401.13934)] [[Github](https://github.com/Guo-Stone/MambaMorph)]
+
+**VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module.** [7th Apr., 2024].<br>
+*Ziyang Wang, Jian-Qing Zheng, Chao Ma, Tao Guo.*<br>
+ [[PDF](https://arxiv.org/abs/2404.05105)] 
+
 
 
 # Multi-Modal Understanding
@@ -246,7 +268,15 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 # 3D Reconstruction
 
+**Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction.** [27th Mar., 2024].<br>
+*Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.18795)] 
+
 # Video Generation
+
+**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces.** [12th Mar., 2024].<br>
+*Yuta Oshima, Shohei Taniguchi, Masahiro Suzuki, Yutaka Matsuo.*<br>
+ [[PDF](https://arxiv.org/abs/2403.07711)] 
 
 # Others
 
