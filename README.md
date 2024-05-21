@@ -122,6 +122,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Yue, Yubiao, and Zhenzhang Li.*<br>
  [[PDF](https://arxiv.org/abs/2403.03849)] 
 
+**CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification.** [25th Mar., 2024].<br>
+*Guangqian Yang, Kangrui Du, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2403.16520)] 
+
 # Object Detection
 
 **State Space Models for Event Cameras.** [23th Feb., 2024].<br>
@@ -151,7 +155,13 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Qinfeng Zhu, Yuanzhi Cai, Yuan Fang, Yihan Yang, Cheng Chen, Lei Fan, Anh Nguyen.*<br>
  [[PDF](https://arxiv.org/abs/2404.01705)] [[GitHub](https://github.com/zhuqinfeng1999/Samba)] 
 
+**nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model.** [5th Feb., 2024].<br>
+*Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li.*<br>
+ [[PDF](https://arxiv.org/abs/2402.03526)] [[GitHub](https://github.com/lhaof/nnMamba)] 
 
+**T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation.** [1st Apr., 2024].<br>
+*Jing Hao, Lei He, Kuo Feng Hung.*<br>
+ [[PDF](https://arxiv.org/abs/2404.01065)] [[GitHub](https://github.com/isbrycee/T-Mamba)] 
 
 # Video Classification
 
