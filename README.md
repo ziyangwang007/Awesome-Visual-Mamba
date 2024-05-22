@@ -163,6 +163,18 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Jing Hao, Lei He, Kuo Feng Hung.*<br>
  [[PDF](https://arxiv.org/abs/2404.01065)] [[GitHub](https://github.com/isbrycee/T-Mamba)] 
 
+**Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention.** [12th Mar., 2024].<br>
+*Jinhong Wang, Jintai Chen, Danny Chen, Jian Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2403.07332)] [[GitHub](https://github.com/wjh892521292/LMa-UNet)] 
+
+**RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation.** [3rd Apr., 2024].<br>
+*Xianping Ma, Xiaokang Zhang, Man-On Pun.*<br>
+ [[PDF](https://arxiv.org/abs/2404.02457)] [[GitHub](https://github.com/sstary/SSRS)] 
+
+**VM-UNet: Vision Mamba UNet for Medical Image Segmentation.** [4th Feb., 2024].<br>
+*Jiacheng Ruan, Suncheng Xiang.*<br>
+ [[PDF](https://arxiv.org/abs/2402.02491)] [[GitHub](https://github.com/JCruan519/VM-UNet)] 
+
 # Video Classification
 
 **Long Movie Clip Classification with State-Space Video Models.** [14th Nov., 2022].<br>
