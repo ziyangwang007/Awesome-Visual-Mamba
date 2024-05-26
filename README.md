@@ -256,7 +256,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Hu Gao, Depeng Dang.*<br>
  [[PDF](https://arxiv.org/abs/2402.09476)] 
 
-# Visual generation
+# Visual Generation
 
 **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models.** [14th Mar., 2024].<br>
 *Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li.*<br>
@@ -275,7 +275,11 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang.*<br>
  [[PDF](https://arxiv.org/abs/2403.07487)] 
 
-# Point cloud
+**I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.** [22nd May., 2024].<br>
+*Omer F. Atli, Bilal Kabas, Fuat Arslan, Mahmut Yurt, Onat Dalmaz, Tolga Çukur.*<br>
+ [[PDF](https://www.arxiv.org/abs/2405.14022)] 
+
+# Point Cloud
 
 **Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy.** [11th Mar., 2024].<br>
 *Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang.*<br>
@@ -293,6 +297,9 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan.*<br>
  [[PDF](https://arxiv.org/abs/2403.00762)] 
 
+**MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Model.** [23rd May., 2024].<br>
+*Jiuming Liu, Jinru Han, Lihao Liu, Angelica I. Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2405.14338)] 
 
 # 3D Reconstruction
 
