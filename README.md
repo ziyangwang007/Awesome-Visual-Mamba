@@ -20,9 +20,9 @@ Authors: [Hanwei Zhang](https://hanwei0912.github.io/), Ying Zhu, Dan Wang, [Lij
 
 <hr />
 
-A curated list of awesome Mamba for Computer Vision (**in chronological order**), inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
+A curated list of awesome Mamba for Computer Vision, inspired by the other awesome-initiatives. We intend to regularly update the relevant latest papers and their open-source implementations on this page. 
 
-We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request to update their paper's information!
+We strongly encourage the researchers that want to promote their fantastic work to the community to make pull request, remind us on issue, or contact with email to update their paper's information!
 
 
 ## Citation
