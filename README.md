@@ -308,5 +308,14 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 # Others
 
+**Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces.** [1st Feb., 2024].<br>
+*Chloe Wang, Oleksii Tsepa, Jun Ma, Bo Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2402.00789)], [[Code](https://github.com/bowang-lab/Graph-Mamba)]
 
+**HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model.** [22nd May., 2024].<br>
+*Zhenyu Pan, Yoonsung Jeong, Xiaoda Liu, Han Liu.*<br>
+ [[PDF](https://arxiv.org/abs/2405.13915)]
 
+**Mamba-R: Vision Mamba ALSO Needs Registers.** [23rd May., 2024].<br>
+*Feng Wang, Jiahao Wang, Sucheng Ren, Guoyizhe Wei, Jieru Mei, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie.*<br>
+ [[PDF](https://arxiv.org/abs/2405.14858)]
