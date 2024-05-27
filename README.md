@@ -118,7 +118,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 **Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model.** [23rd Mar., 2024].<br>
 *Yuheng Shi, Minjing Dong, Chang Xu.*<br>
- [[PDF](https://arxiv.org/abs/2405.14480)], [[GitHub](https://github.com/YuHengsss/MSVMamba)]
+ [[PDF](https://arxiv.org/abs/2405.14480)], [[Code](https://github.com/YuHengsss/MSVMamba)]
 
 # Image Classification 
 
@@ -142,7 +142,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection.** [3rd Apr., 2024].<br>
 *Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu.*<br>
- [[PDF](https://arxiv.org/abs/2403.02148)] [[GitHub](https://github.com/txchen-USTC/MiM-ISTD)] 
+ [[PDF](https://arxiv.org/abs/2403.02148)] [[Code](https://github.com/txchen-USTC/MiM-ISTD)] 
 
 
 # Image Segmentation
@@ -161,27 +161,27 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 **Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model.** [11th Apr., 2024].<br>
 *Qinfeng Zhu, Yuanzhi Cai, Yuan Fang, Yihan Yang, Cheng Chen, Lei Fan, Anh Nguyen.*<br>
- [[PDF](https://arxiv.org/abs/2404.01705)] [[GitHub](https://github.com/zhuqinfeng1999/Samba)] 
+ [[PDF](https://arxiv.org/abs/2404.01705)] [[Code](https://github.com/zhuqinfeng1999/Samba)] 
 
 **nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model.** [5th Feb., 2024].<br>
 *Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li.*<br>
- [[PDF](https://arxiv.org/abs/2402.03526)] [[GitHub](https://github.com/lhaof/nnMamba)] 
+ [[PDF](https://arxiv.org/abs/2402.03526)] [[Code](https://github.com/lhaof/nnMamba)] 
 
 **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation.** [1st Apr., 2024].<br>
 *Jing Hao, Lei He, Kuo Feng Hung.*<br>
- [[PDF](https://arxiv.org/abs/2404.01065)] [[GitHub](https://github.com/isbrycee/T-Mamba)] 
+ [[PDF](https://arxiv.org/abs/2404.01065)] [[Code](https://github.com/isbrycee/T-Mamba)] 
 
 **Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention.** [12th Mar., 2024].<br>
 *Jinhong Wang, Jintai Chen, Danny Chen, Jian Wu.*<br>
- [[PDF](https://arxiv.org/abs/2403.07332)] [[GitHub](https://github.com/wjh892521292/LMa-UNet)] 
+ [[PDF](https://arxiv.org/abs/2403.07332)] [[Code](https://github.com/wjh892521292/LMa-UNet)] 
 
 **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation.** [3rd Apr., 2024].<br>
 *Xianping Ma, Xiaokang Zhang, Man-On Pun.*<br>
- [[PDF](https://arxiv.org/abs/2404.02457)] [[GitHub](https://github.com/sstary/SSRS)] 
+ [[PDF](https://arxiv.org/abs/2404.02457)] [[Code](https://github.com/sstary/SSRS)] 
 
 **VM-UNet: Vision Mamba UNet for Medical Image Segmentation.** [4th Feb., 2024].<br>
 *Jiacheng Ruan, Suncheng Xiang.*<br>
- [[PDF](https://arxiv.org/abs/2402.02491)] [[GitHub](https://github.com/JCruan519/VM-UNet)] 
+ [[PDF](https://arxiv.org/abs/2402.02491)] [[Code](https://github.com/JCruan519/VM-UNet)] 
 
 # Video Classification
 
@@ -208,7 +208,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 
 **MambaMorph: a Mamba-based Framework for Medical MR-CT Deformable Registration.** [25th Jan., 2024].<br>
 *Tao Guo, Yinuo Wang, Shihao Shu, Diansheng Chen, Zhouping Tang, Cai Meng, Xiangzhi Bai.*<br>
- [[PDF](https://arxiv.org/abs/2401.13934)] [[Github](https://github.com/Guo-Stone/MambaMorph)]
+ [[PDF](https://arxiv.org/abs/2401.13934)] [[Code](https://github.com/Guo-Stone/MambaMorph)]
 
 **VMambaMorph: a Multi-Modality Deformable Image Registration Framework based on Visual State Space Model with Cross-Scan Module.** [7th Apr., 2024].<br>
 *Ziyang Wang, Jian-Qing Zheng, Chao Ma, Tao Guo.*<br>
@@ -290,6 +290,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 **I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.** [22nd May., 2024].<br>
 *Omer F. Atli, Bilal Kabas, Fuat Arslan, Mahmut Yurt, Onat Dalmaz, Tolga Çukur.*<br>
  [[PDF](https://www.arxiv.org/abs/2405.14022)] 
+
+**DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis.** [23rd May., 2024].<br>
+*Yao Teng, Yue Wu, Han Shi, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu.*<br>
+ [[PDF](https://arxiv.org/abs/2405.14224)], [[Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
 
 # Point Cloud
 
