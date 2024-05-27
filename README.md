@@ -108,9 +108,17 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Shufan Li, Harkanwar Singh, Aditya Grover.*<br>
  [[PDF](https://arxiv.org/abs/2402.05892)] 
 
-**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series.** [22th Mar., 2024].<br>
+**SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series.** [22nd Mar., 2024].<br>
 *Badri N. Patro, Vijay S. Agneeswaran.*<br>
  [[PDF](https://arxiv.org/abs/2403.15360)] 
+
+**Scalable Visual State Space Model with Fractal Scanning.** [23rd Mar., 2024].<br>
+*Lv Tang, HaoKe Xiao, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li.*<br>
+ [[PDF](https://arxiv.org/abs/2405.14480)]  
+
+**Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model.** [23rd Mar., 2024].<br>
+*Yuheng Shi, Minjing Dong, Chang Xu.*<br>
+ [[PDF](https://arxiv.org/abs/2405.14480)], [[GitHub](https://github.com/YuHengsss/MSVMamba)]
 
 # Image Classification 
 
@@ -255,6 +263,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 **Learning Enriched Features via Selective State Spaces Model for Efficient Image Deblurring.** [29th Mar., 2024].<br>
 *Hu Gao, Depeng Dang.*<br>
  [[PDF](https://arxiv.org/abs/2402.09476)] 
+
+**Efficient Visual State Space Model for Image Deblurring.** [23rd May., 2024].<br>
+*Lingshun Kong, Jiangxin Dong, Ming-Hsuan Yang, Jinshan Pan.*<br>
+ [[PDF](https://arxiv.org/abs/2405.14343)] 
 
 # Visual Generation
 
