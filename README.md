@@ -120,6 +120,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Yuheng Shi, Minjing Dong, Chang Xu.*<br>
  [[PDF](https://arxiv.org/abs/2405.14480)], [[Code](https://github.com/YuHengsss/MSVMamba)]
 
+**Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model.** [28th May., 2024].<br>
+*Wenbing Li, Hang Zhou, Zikai Song, Wei Yang.*<br>
+ [[PDF](https://arxiv.org/abs/2405.18014)]
+
 # Image Classification 
 
 **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning.** [24th Feb., 2024].<br>
@@ -182,6 +186,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 **VM-UNet: Vision Mamba UNet for Medical Image Segmentation.** [4th Feb., 2024].<br>
 *Jiacheng Ruan, Suncheng Xiang.*<br>
  [[PDF](https://arxiv.org/abs/2402.02491)] [[Code](https://github.com/JCruan519/VM-UNet)] 
+
+**UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation.** [25th May., 2024].<br>
+*Ting Yu Tsai, Li Lin, Shu Hu, Ming-Ching, Hongtu Zhu, Xin Wang.*<br>
+ [[PDF](https://arxiv.org/abs/2405.17496)] 
 
 # Video Classification
 
