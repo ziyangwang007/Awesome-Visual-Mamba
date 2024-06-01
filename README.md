@@ -266,6 +266,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Zou Zhen, Yu Hu, Zhao Feng.*<br>
  [[PDF](https://arxiv.org/abs/2403.20106)] 
 
+**FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining.** [29th May., 2024].<br>
+*Dong Li, Yidi Liu, Xueyang Fu, Senyan Xu, Zheng-Jun Zha.*<br>
+ [[PDF](https://arxiv.org/abs/2405.19450)] 
+
 # Image Deblurring
 
 **Learning Enriched Features via Selective State Spaces Model for Efficient Image Deblurring.** [29th Mar., 2024].<br>
