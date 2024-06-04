@@ -124,6 +124,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Wenbing Li, Hang Zhou, Zikai Song, Wei Yang.*<br>
  [[PDF](https://arxiv.org/abs/2405.18014)]
 
+ **Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality.** [31st May., 2024].<br>
+*Tri Dao, Albert Gu*<br>
+ [[PDF](https://arxiv.org/abs/2405.21060)]
+
 # Image Classification 
 
 **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning.** [24th Feb., 2024].<br>
