@@ -124,9 +124,13 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Wenbing Li, Hang Zhou, Zikai Song, Wei Yang.*<br>
  [[PDF](https://arxiv.org/abs/2405.18014)]
 
- **Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality.** [31st May., 2024].<br>
-*Tri Dao, Albert Gu*<br>
+**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality.** [31st May., 2024].<br>
+*Tri Dao, Albert Gu.*<br>
  [[PDF](https://arxiv.org/abs/2405.21060)]
+
+**Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain.** [29th May., 2024].<br>
+*Juntao Zhang, Kun Bian, Peng Cheng, Wenbo An, Jianning Liu, Jun Zhou.*<br>
+ [[PDF](https://arxiv.org/abs/2405.18679)], [[Code](https://github.com/yws-wxs/Vim-F)]
 
 # Image Classification 
 
@@ -257,6 +261,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models.** [26th Mar., 2024].<br>
 *Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi.*<br>
  [[PDF](https://arxiv.org/abs/2403.17902)] 
+
+**MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space.** [25th May., 2024].<br>
+*Jiangwei Weng, Zhiqiang Yan, Ying Tai, Jianjun Qian, Jian Yang, Jun Li.*<br>
+ [[PDF](https://arxiv.org/abs/2405.16105v1)], [[Code](https://arxiv.org/abs/2405.16105v1)]
 
 # Image Dehazing
 
