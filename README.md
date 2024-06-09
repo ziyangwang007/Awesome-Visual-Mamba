@@ -266,6 +266,10 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Jiangwei Weng, Zhiqiang Yan, Ying Tai, Jianjun Qian, Jian Yang, Jun Li.*<br>
  [[PDF](https://arxiv.org/abs/2405.16105v1)], [[Code](https://arxiv.org/abs/2405.16105v1)]
 
+**LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network.** [3rd Jun., 2024].<br>
+*Xuanqi Zhang, Haijin Zeng, Jinwang Pan, Qiangqiang Shen, Yongyong Chen.*<br>
+ [[PDF](https://arxiv.org/abs/2406.01028)] 
+
 # Image Dehazing
 
 **U-shaped Vision Mamba for Single Image Dehazing.** [6th Feb., 2024].<br>
@@ -366,3 +370,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 **Mamba-R: Vision Mamba ALSO Needs Registers.** [23rd May., 2024].<br>
 *Feng Wang, Jiahao Wang, Sucheng Ren, Guoyizhe Wei, Jieru Mei, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie.*<br>
  [[PDF](https://arxiv.org/abs/2405.14858)]
+
+**MGI: Multimodal Contrastive pre-training of Genomic and Medical Imaging.** [2nd Jun., 2024].<br>
+*Jiaying Zhou, Mingzhou Jiang, Junde Wu, Jiayuan Zhu, Ziyue Wang, Yueming Jin.*<br>
+ [[PDF](https://arxiv.org/abs/2406.00631)]
