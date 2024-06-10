@@ -59,6 +59,7 @@ If you find the listing and survey useful for your work, please cite the paper:
 - [Image Deblurring](#Image-Deblurring)
 - [Visual Generation](#Visual-Generation)
 - [Point Cloud](#Point-Cloud)
+- [Depth Estimation](#Depth-Estimation)
 - [3D Reconstruction](#3D-Reconstruction)
 - [Video Generation](#Video-Generation)
 - [Others](#Others)
@@ -131,6 +132,8 @@ If you find the listing and survey useful for your work, please cite the paper:
 **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain.** [29th May., 2024].<br>
 *Juntao Zhang, Kun Bian, Peng Cheng, Wenbo An, Jianning Liu, Jun Zhou.*<br>
  [[PDF](https://arxiv.org/abs/2405.18679)], [[Code](https://github.com/yws-wxs/Vim-F)]
+
+
 
 # Image Classification 
 
@@ -345,6 +348,12 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Jiuming Liu, Jinru Han, Lihao Liu, Angelica I. Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang.*<br>
  [[PDF](https://arxiv.org/abs/2405.14338)] 
 
+# Depth Estimation
+
+**MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation.** [6th Jun., 2024].<br>
+*Ionuţ Grigore, Călin-Adrian Popa.*<br>
+ [[PDF](https://arxiv.org/abs/2406.04532)] 
+
 # 3D Reconstruction
 
 **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction.** [27th Mar., 2024].<br>
@@ -374,3 +383,8 @@ If you find the listing and survey useful for your work, please cite the paper:
 **MGI: Multimodal Contrastive pre-training of Genomic and Medical Imaging.** [2nd Jun., 2024].<br>
 *Jiaying Zhou, Mingzhou Jiang, Junde Wu, Jiayuan Zhu, Ziyue Wang, Yueming Jin.*<br>
  [[PDF](https://arxiv.org/abs/2406.00631)]
+
+
+**Zamba: A Compact 7B SSM Hybrid Model.** [26th May., 2024].<br>
+*Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge.*<br>
+ [[PDF](https://arxiv.org/abs/2405.16712)]
