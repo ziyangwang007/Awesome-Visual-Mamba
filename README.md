@@ -133,7 +133,9 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Juntao Zhang, Kun Bian, Peng Cheng, Wenbo An, Jianning Liu, Jun Zhou.*<br>
  [[PDF](https://arxiv.org/abs/2405.18679)], [[Code](https://github.com/yws-wxs/Vim-F)]
 
-
+**Autoregressive Pretraining with Mamba in Vision.** [11th Jan., 2024].<br>
+*Sucheng Ren, Xianhang Li, Haoqin Tu, Feng Wang, Fangxun Shu, Lei Zhang, Jieru Mei, Linjie Yang, Peng Wang, Heng Wang, Alan Yuille, Cihang Xie.*<br>
+ [[PDF](https://arxiv.org/abs/2406.07537v1)], [[Code](https://github.com/OliverRensu/ARM)]
 
 # Image Classification 
 
@@ -148,6 +150,13 @@ If you find the listing and survey useful for your work, please cite the paper:
 **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification.** [25th Mar., 2024].<br>
 *Guangqian Yang, Kangrui Du, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang.*<br>
  [[PDF](https://arxiv.org/abs/2403.16520)] 
+
+**DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification.** [11th Jan., 2024].<br>
+*Jiamu Sheng, Jingyi Zhou, Jiong Wang, Peng Ye, Jiayuan Fan.*<br>
+ [[PDF](https://arxiv.org/abs/2406.07050v1)] 
+
+
+
 
 # Object Detection
 
@@ -201,6 +210,12 @@ If you find the listing and survey useful for your work, please cite the paper:
 **UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation.** [25th May., 2024].<br>
 *Ting Yu Tsai, Li Lin, Shu Hu, Ming-Ching, Hongtu Zhu, Xin Wang.*<br>
  [[PDF](https://arxiv.org/abs/2405.17496)] 
+
+**MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba.** [10th Jan., 2024].<br>
+*Zhongping Ji.*<br>
+ [[PDF](https://arxiv.org/abs/2406.05992)] 
+
+
 
 # Video Classification
 
