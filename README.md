@@ -168,6 +168,9 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu.*<br>
  [[PDF](https://arxiv.org/abs/2403.02148)] [[Code](https://github.com/txchen-USTC/MiM-ISTD)] 
 
+**CDMamba: Remote Sensing Image Change Detection with Mamba.** [6th JUn., 2024].<br>
+*Haotian Zhang, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, Zhenwei Shi.*<br>
+ [[PDF](https://arxiv.org/abs/2406.04207)] [[Code](https://github.com/zmoka-zht/CDMamba)] 
 
 # Image Segmentation
 
