@@ -87,6 +87,11 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Patro, Badri Narayana, and Vijay Srinivas Agneeswaran.*<br>
  [[PDF](https://arxiv.org/abs/2404.16112)] 
 
+**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis.** [5th Jun., 2024].<br>
+*Moein Heidari, Sina Ghorbani Kolahi, Sanaz Karimijafarbigloo, Bobby Azad, Afshin Bozorgpour, Soheila Hatami, Reza Azad, Ali Diba, Ulas Bagci, Dorit Merhof, Ilker Hacihaliloglu.*<br>
+ [[PDF](https://arxiv.org/abs/2406.03430)] 
+
+
 # Mamba Backbone
 
 **Vision mamba: Efficient visual representation learning with bidirectional state space mode.** [17th Jan., 2024].<br>
@@ -217,6 +222,14 @@ If you find the listing and survey useful for your work, please cite the paper:
 **MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba.** [10th Jan., 2024].<br>
 *Zhongping Ji.*<br>
  [[PDF](https://arxiv.org/abs/2406.05992)] 
+
+**Segmentation in X-ray Fluoroscopy Utilizing Virtual Simulations of Cardiovascular Procedures.** [2024].<br>
+*Andersson Rasmus, Ekerstedt Martin.*<br>
+ [[PDF](https://odr.chalmers.se/items/6cc9c1de-0e00-4012-a326-0655cd693b48)] 
+
+**Rotate to scan: Unet-like mamba with triplet ssm module for medical image segmentation.** [2024].<br>
+*Hao Tang, Lianglun Cheng, Guoheng Huang, Zhengguang Tan, Junhao Lu, Kaihong Wu.*<br>
+ [[PDF](https://arxiv.org/abs/2403.17701v3)] 
 
 
 
@@ -402,7 +415,11 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Jiaying Zhou, Mingzhou Jiang, Junde Wu, Jiayuan Zhu, Ziyue Wang, Yueming Jin.*<br>
  [[PDF](https://arxiv.org/abs/2406.00631)]
 
-
 **Zamba: A Compact 7B SSM Hybrid Model.** [26th May., 2024].<br>
 *Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge.*<br>
  [[PDF](https://arxiv.org/abs/2405.16712)]
+
+**MambaLRP: Explaining Selective State Space Sequence Models.** [11th Jun., 2024].<br>
+*Farnoush Rezaei Jafari, Grégoire Montavon, Klaus-Robert Müller, Oliver Eberle.*<br>
+ [[PDF](https://arxiv.org/abs/2406.07592)]
+
