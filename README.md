@@ -29,7 +29,7 @@ We strongly encourage the researchers that want to promote their fantastic work 
 
 If you find the listing and survey useful for your work, please cite the paper:
 
-- Zhang, Hanwei, et al. "A Survey on Visual Mamba." Applied Sciences 13.14 (2024): 14135683.
+- Zhang, Hanwei, et al. "A Survey on Visual Mamba." Applied Sciences 13.14 (2024): 5683.
 
 ```bibtex
 @article{zhang2024survey,
