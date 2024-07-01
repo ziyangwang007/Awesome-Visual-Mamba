@@ -344,7 +344,6 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang.*<br>
  [[PDF](https://arxiv.org/abs/2402.05608)] 
 
-
 **ZigMa: A DiT-style Zigzag Mamba Diffusion Model.** [20th Mar., 2024].<br>
 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Björn Ommer.*<br>
  [[PDF](https://arxiv.org/abs/2403.13802)] 
@@ -361,6 +360,9 @@ If you find the listing and survey useful for your work, please cite the paper:
 *Yao Teng, Yue Wu, Han Shi, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu.*<br>
  [[PDF](https://arxiv.org/abs/2405.14224)], [[Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]
 
+**Soft Masked Mamba Diffusion Model for CT to MRI Conversion.** [22nd Jun., 2024].<br>
+*Zhenbin Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang.*<br>
+ [[PDF](https://arxiv.org/abs/2406.15910)], [[Code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]
 # Point Cloud
 
 **Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy.** [11th Mar., 2024].<br>
@@ -394,6 +396,12 @@ If you find the listing and survey useful for your work, please cite the paper:
 **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction.** [27th Mar., 2024].<br>
 *Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang.*<br>
  [[PDF](https://arxiv.org/abs/2403.18795)] 
+
+**MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion.** [27th Jun., 2024].<br>
+*Jing Zou, Lanqing Liu, Qi Chen, Shujun Wang, Xiaohan Xing, Jing Qin.*<br>
+ [[PDF](https://arxiv.org/abs/2406.18950)] 
+
+
 
 # Video Generation
 
